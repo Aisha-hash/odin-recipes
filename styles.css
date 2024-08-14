@@ -1,0 +1,14 @@
+body {
+    font-family: "Times New Roman" , Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.list {
+    color: rgb(70, 117, 189);
+    font-size: 18px;
+}
