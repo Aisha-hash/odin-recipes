@@ -1,0 +1,37 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading,
+.subtext {
+   
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.heading {
+    /*font-size: 26px;*/
+    color: rgb(3, 3, 3);
+    text-decoration: underline;
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.subtext {
+        font-size: 18px;
+        
+}
+
+.list {
+    font-style: oblique;
+}
+
+.text.list {
+    font-weight: normal;
+    
+}
